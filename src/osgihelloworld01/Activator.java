@@ -3,6 +3,7 @@ package osgihelloworld01;
 import org.osgi.framework.BundleActivator;
 import org.osgi.framework.BundleContext;
 
+//根据创建plug-in项目时输入的参数，框架自动生成的代码
 public class Activator implements BundleActivator {
 
 	/*
